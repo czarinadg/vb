@@ -1,0 +1,12 @@
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\bin\Debug\prog2.exe.config
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\bin\Debug\prog2.exe
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\bin\Debug\prog2.pdb
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\bin\Debug\prog2.xml
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.vbproj.AssemblyReference.cache
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.Form1.resources
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.Resources.resources
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.vbproj.GenerateResource.cache
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.vbproj.CoreCompileInputs.cache
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.exe
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.xml
+C:\Users\czari\OneDrive\Desktop\kate-vb\prog2\prog2\obj\Debug\prog2.pdb
