@@ -1,0 +1,10 @@
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\bin\Debug\kate-vb.exe.config
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\bin\Debug\kate-vb.exe
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\bin\Debug\kate-vb.pdb
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate-vb.csproj.AssemblyReference.cache
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate_vb.Form1.resources
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate_vb.Properties.Resources.resources
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate-vb.csproj.GenerateResource.cache
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate-vb.csproj.CoreCompileInputs.cache
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate-vb.exe
+C:\Users\czari\OneDrive\Desktop\kate-vb\kate-vb\kate-vb\obj\Debug\kate-vb.pdb
